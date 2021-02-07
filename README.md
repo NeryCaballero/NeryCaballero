@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Welcome to my GitHub!
 
-# My name is Nery Caballero, I am 32 yrs old and I am a panamenian living in Belgium !
+### My name is Nery Caballero, I am 32 yrs old and I am a panamenian living in Belgium !
 
 - 🔭 I’m on the verge of finishing a Full-Stack 7-months web dev bootcamp at BeCode.org @ Brussels, Belgium.
 - I'm looking for an internship or an entry level position as either a full-stack or back-end developer.
