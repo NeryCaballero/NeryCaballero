@@ -6,7 +6,7 @@
 
 ## About
 
--  👩🏻‍  Very soon I will be completing a 7-months Full-Stack Web Developer Bootcamp at BeCode.org @ Brussels, Belgium : 03/31/2021.
+-  👩🏻‍  Very soon I will be completing a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium : 03/31/2021.
 -  🔭   I'm looking for an internship or an entry level position as either a **full-stack or back-end developer** in Brussels or Wallonia region 🇧🇪.
 <br> 
 
