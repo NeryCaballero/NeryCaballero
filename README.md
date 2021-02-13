@@ -1,6 +1,7 @@
 <img src="https://github.com/NeryCaballero/NeryCaballero/blob/main/welcome.png" >
 
-> ### Full-Stack Web Developer, 32 years old [Panameña](https://www.google.com/search?q=panama&oq=panama&aqs=chrome..69i57j46i39j46l2j69i60l3.1360j0j9&sourceid=chrome&ie=UTF-8) 🇵🇦   living in Belgium 🇧🇪  !
+> ### Full-Stack Web Developer.
+> [Panameña](https://www.google.com/search?q=panama&oq=panama&aqs=chrome..69i57j46i39j46l2j69i60l3.1360j0j9&sourceid=chrome&ie=UTF-8) 🇵🇦   living in Belgium 🇧🇪  !
 <br>
 
 ## About
