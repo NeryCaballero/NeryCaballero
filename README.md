@@ -6,13 +6,13 @@
 
 ## About
 
--  👩🏻‍  Very soon I will be completing a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium : 03/31/2021.
+-  👩🏻‍  On 03/31/2021 I will be completing a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
 -  🔭   I'm looking for an internship or an entry level position as either a **full-stack or back-end developer** in Brussels or Wallonia region 🇧🇪.
 <br> 
 
 ## Skills
 
--  🐍  Currently I’m learning Python, SQL and advanced concepts of Algorithms and Data Structures.
+-  🐍  Currently I’m learning Python, SQL, UML and advanced concepts of Algorithms and Data Structures.
 
 -  👾  I am proficient in both front-end and back-end. 
    - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript.
