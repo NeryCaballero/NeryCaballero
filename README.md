@@ -12,12 +12,12 @@
 
 ## Skills
 
--  🐍  Currently I’m learning Python.
+-  🐍  Currently I’m learning Python, SQL and more advance concepts of Algorithms and Data Structures.
 
 -  👾  I am proficient in both front-end and back-end. 
    - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript.
    - ⚙️  My back-end skills include, but are not limited to: Node.js, PHP.
-   - 🗃  I have experience working with MySQL, MongoDB, Git, GitHub.
+   - 🗃  I have experience working with MySQL, MongoDB, Git, GitHub, OOP, MVC.
    - 👯‍ I am a team player and I feel confortable working on both small and large groups.
 <br>
 
@@ -29,8 +29,8 @@
 
 ## Contact
 
-- 💬  Feel free to ask me about my learning journey 
-- 📫  and do not hesitated to [--> Network with me <--](https://www.linkedin.com/in/nerycaballero24/) on LinkedIn. 
+- 💬  Feel free to ask me about my learning journey and really about anything in general :D 
+- 📫  Do not hesitated to [--> Network with me <--](https://www.linkedin.com/in/nerycaballero24/) on LinkedIn. 
 <br>
 
 ## More
