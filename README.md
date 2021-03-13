@@ -13,11 +13,17 @@
 ## Skills
 
 -  🐍  Currently I’m learning Python, SQL, UML and advanced concepts of Algorithms and Data Structures.
--  So far I have covered the Python language, flask, REST API's.
+-  So far I have covered: 
+   -  On Python: 
+      -  Python fundamentals, Mutability, flask, REST API's.
+   -  On SQL: 
+      -  SQL fundamentals, Joining lists, preventing SQL injections.
+   -  On Algo's & Data Structures: 
+      -  Big O notation, Performance of Arrays and Objects, Problem Solving Patterns, Singly Linked Lists.
 
 -  👾  I am proficient in both front-end and back-end. 
    - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript.
-   - ⚙️  My back-end skills include, but are not limited to: Node.js, PHP.
+   - ⚙️  My back-end skills include, but are not limited to: Node.js, PHP, Python.
    - 🗃  I have experience working with MySQL, MongoDB, Git, GitHub, OOP, MVC.
    - 👯‍ I am a team player and I feel confortable working on both small and large groups.
 <br>
