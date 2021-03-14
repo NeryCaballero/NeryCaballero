@@ -16,6 +16,7 @@
 -  So far I have covered: 
    -  On Python: 
       -  Python fundamentals, Mutability, flask, REST API's.
+      -  Modules I have explored: flask, flask_resful
    -  On SQL: 
       -  SQL fundamentals, Joining lists, preventing SQL injections.
    -  On Algo's & Data Structures: 
