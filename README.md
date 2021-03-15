@@ -17,9 +17,12 @@
    -  On Python: 
       -  Python fundamentals, Mutability, flask, REST API's.
       -  Modules I have explored: 
-         -  flask: Flask, jsonify, request, render_template
-         -  flask_restful: Resource, Api, reqparse
-         -  flask_jwt: JWT, jwt_required, current_identity
+         -  [flask](https://pypi.org/project/Flask/): Flask, jsonify, request, render_template
+         -  [flask_restful](https://pypi.org/project/Flask-RESTful/): Resource, Api, reqparse
+         -  [flask_jwt](https://pypi.org/project/Flask-JWT/): JWT, jwt_required, current_identity
+         -  [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+         -  [flask_sqlalchemy](https://pypi.org/project/Flask-SQLAlchemy/)
+         -  
    -  On SQL: 
       -  SQL fundamentals, Joining lists, preventing SQL injections.
    -  On Algo's & Data Structures: 
