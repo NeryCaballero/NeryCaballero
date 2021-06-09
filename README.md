@@ -6,8 +6,9 @@
 
 ## About
 
--  👩🏻‍  On 03/31/2021 I will be completing a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
--  🔭   On 06/04/2021 I will be starting an internship as a Python back-end developer !!!
+-  🤖  I am currently undergoing a 3-months internship as a Python back-end developer, until 02/07/2021.
+-  👩🏻‍  On 03/31/2021 I completed a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
+
 <br> 
 
 ## Skills
