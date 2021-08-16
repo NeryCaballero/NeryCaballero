@@ -6,14 +6,15 @@
 
 ## About
 
--  🤖  I am currently undergoing a 3-months internship as a Python back-end developer, until 02/07/2021.
+- 🏻💻  I am currently looking for a position as a backend developer in Python or JavaScript/React.
+-  🤖  On 02/07/2021 I completed a 3-months internship as a Python back-end developer at Saper Vedere @ Brussels, Belgium.
 -  👩🏻‍  On 03/31/2021 I completed a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
 
 <br> 
 
 ## Skills
 
--  🐍  Currently I’m learning Python, SQL, UML and advanced concepts of Algorithms and Data Structures.
+-  🐍  Currently I’m learning React, SQL, UML and advanced concepts of Algorithms and Data Structures.
 -  So far I have covered: 
    -  On Python: 
       -  Python fundamentals, Mutability, flask, REST API's.
@@ -30,7 +31,7 @@
       -  Big O notation, Performance of Arrays and Objects, Problem Solving Patterns, Singly Linked Lists.
 
 -  👾  I am proficient in both front-end and back-end. 
-   - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript.
+   - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript/React.
    - ⚙️  My back-end skills include, but are not limited to: Node.js, PHP, Python.
    - 🗃  I have experience working with MySQL, MongoDB, Git, GitHub, OOP, MVC.
    - 👯‍ I am a team player and I feel confortable working on both small and large groups.
@@ -54,6 +55,6 @@
 
 - 🗣  I am fluent in English, Spanish and French.
 - 🤓  I am currently learning Dutch !
-- 📸  I am a professional photographer, yoga practitioner, scuba diver, cat lover and coffee addict !
+- 📸  I am a photographer, yoga practitioner, scuba diver, cat lover and coffee ethusiast!
 
 - 🙏🏼  Thanks for passing by, have a lovely day!
