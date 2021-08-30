@@ -6,7 +6,7 @@
 
 ## About
 
-- 🏻💻  I am currently looking for a position as a backend developer in Python or JavaScript/React.
+- 🏻💻  I am currently working as a developer in Python & JavaScript/React.
 -  🤖  On 02/07/2021 I completed a 3-months internship as a Python back-end developer at Saper Vedere @ Brussels, Belgium.
 -  👩🏻‍  On 03/31/2021 I completed a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
 
