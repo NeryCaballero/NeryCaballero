@@ -13,6 +13,7 @@
       - Basic knowledge of PHP
          
    - 🗃  I have experience working with:
+      - Frameworks: Odoo, Flask
       - Databases: PostgreSQL, MySQL, MongoDB
       - Version Control: Git, GitHub, GitLab
       - Paradigms/Patterns: OOP, MVC
