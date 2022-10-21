@@ -1,60 +1,61 @@
-<img src="https://github.com/NeryCaballero/NeryCaballero/blob/main/welcome.png" >
-
-> ### Full-Stack Web Developer.
-> [Panameña](https://www.google.com/search?q=panama&oq=panama&aqs=chrome..69i57j46i39j46l2j69i60l3.1360j0j9&sourceid=chrome&ie=UTF-8) 🇵🇦  residing in Belgium 🇧🇪  !
-<br>
-
-## About
-
-- 🏻💻  I am currently working as a developer in Python & JavaScript/React.
--  🤖  On 02/07/2021 I completed a 3-months internship as a Python back-end developer at Saper Vedere @ Brussels, Belgium.
--  👩🏻‍  On 03/31/2021 I completed a 7-months Full-Stack Web Development Bootcamp at BeCode.org @ Brussels, Belgium.
-
+## About Me
+-  💻  Since August 2021 I work as a Python/JavaScript/Odoo back-end developer at [yechte.com](https://www.yechte.com) @ Remotely, Belgium.
+-  🤖  On July 2021 I completed a 3-months internship as a Python back-end developer at [Saper Vedere](https://www.saper-vedere.eu/) @ Brussels, Belgium.
+-  👩🏻‍  On March 2021 I completed a Full-Stack Web Development Bootcamp at [BeCode.org](https://becode.org/) @ Brussels, Belgium.
 <br> 
 
 ## Skills
-
--  🐍  Currently I’m learning React, SQL, UML and advanced concepts of Algorithms and Data Structures.
--  So far I have covered: 
-   -  On Python: 
-      -  Python fundamentals, Mutability, flask, REST API's.
-      -  Modules I have explored: 
-         -  [flask](https://pypi.org/project/Flask/): Flask, jsonify, request, render_template
-         -  [flask_restful](https://pypi.org/project/Flask-RESTful/): Resource, Api, reqparse
-         -  [flask_jwt](https://pypi.org/project/Flask-JWT/): JWT, jwt_required, current_identity
-         -  [sqlite3](https://docs.python.org/3/library/sqlite3.html)
-         -  [flask_sqlalchemy](https://pypi.org/project/Flask-SQLAlchemy/)
-         -  
-   -  On SQL: 
-      -  SQL fundamentals, Joining lists, preventing SQL injections.
-   -  On Algo's & Data Structures: 
-      -  Big O notation, Performance of Arrays and Objects, Problem Solving Patterns, Singly Linked Lists.
-
--  👾  I am proficient in both front-end and back-end. 
-   - 🎨  My front-end skills include, but are not limited to: HTML5, CSS3 and JavaScript/React.
-   - ⚙️  My back-end skills include, but are not limited to: Node.js, PHP, Python.
-   - 🗃  I have experience working with MySQL, MongoDB, Git, GitHub, OOP, MVC.
-   - 👯‍ I am a team player and I feel confortable working on both small and large groups.
+   - 👾  I am proficient in both back-end and front-end, being back-end my stronger side.
+   
+   - ⚙️   My back-end skills include, but are not limited to: 
+      - Python3 
+      - Node.js
+      - Basic knowledge of PHP
+         
+   - 🗃  I have experience working with:
+      - Databases: PostgreSQL, MySQL, MongoDB
+      - Version Control: Git, GitHub, GitLab
+      - Paradigms/Patterns: OOP, MVC
+      - Building APIs: RESTful, JSON
+      - Tools: PyCharm, VSCode, Atom, Postman, PGAdmin, Command Line, Pip3, npm
+      - Working Methodologies: Agile, SCRUM
+         
+   - 🎨  My front-end skills include, but are not limited to: 
+      - HTML5
+      - CSS 
+      - SCSS
+      - Bootstrap
+      - Vanilla JavaScript
+      - XML 
+      - Templates
+      - Basic knowledge of React & Angular.
+         
+   - 👯‍  I am a team player and I feel confortable working on both small and large groups.
 <br>
 
-## Interests
+## How do I keep myself up to date?
+- I am an active member of :
+   - [Data Camp](https://www.datacamp.com/)
+   - [Frontend Masters](https://www.frontendmasters.com/)
+   
+- I am currently taking the following course:
+   - [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass)
+   
+- I am currently reading:
+   - The Self-taught Programmer, by Cory Althoff
+<br>
 
-- 📖  I’m very interested in collaborating to an Open Source Project!
-- 🆘  I would love to get advice on how to get started 🙃.
+## I am looking to expand and strengthen my set of skills by obtaining Professional Experience in:
+- 🎨  Front-end
+- 🌥  Cloud
+- 📚  Databases
 - 🤖  Data Science, Robotics, AI, ML.
-- 📚  Education.
-<br>
-
-## Contact
-
-- 💬  Feel free to ask me about my learning journey and really about anything in general 🌤
-- 📫  Do not hesitated to [--> Network with me <--](https://www.linkedin.com/in/nerycaballero24/) on LinkedIn. 
 <br>
 
 ## More
-
-- 🗣  I am fluent in English, Spanish and French.
-- 🤓  I am currently learning Dutch !
+- 🗣  I speak Spanish C2, English C1, French B2 and Dutch A2.
 - 📸  I am a photographer, yoga practitioner, scuba diver, cat lover and coffee ethusiast!
+<br>
 
-- 🙏🏼  Thanks for passing by, have a lovely day!
+## Contact
+- 📫  Do not hesitate to network with me on [LinkedIn](https://www.linkedin.com/in/nerycaballero24/).
