@@ -19,6 +19,7 @@
       - Building APIs: RESTful, JSON
       - Tools: PyCharm, VSCode, Atom, Postman, PGAdmin, Command Line, Pip3, npm
       - Working Methodologies: Agile, SCRUM
+      - OS: Apple macOS, Microsoft Windows, Linux Operating System
          
    - 🎨  My front-end skills include, but are not limited to: 
       - HTML5
